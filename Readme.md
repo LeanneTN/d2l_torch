@@ -2,7 +2,9 @@
 This repo is used as the notebook during my learning experience of 
 PyTorch and code in deep learning
 
-### config
+**Star or Fork this program if you like it**
+
+### requirements
 python==3.9
 
 d2l==0.17.6
@@ -16,3 +18,9 @@ pandas==1.2.4
 numpy==1.21.5
 
 matplotlib==3.5.1
+
+### running environment
+
+IDE: PyCharm 2023
+
+Environment: conda 4.9.2
