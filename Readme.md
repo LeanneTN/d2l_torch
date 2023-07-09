@@ -20,9 +20,13 @@ torchvision==0.13.1 + cu113
 
 pandas==1.2.4
 
-numpy==1.21.5
+numpy==1.25.1
+
+networkx==3.1
 
 matplotlib==3.5.1
+
+spacy==3.6.0
 
 ### running environment
 
