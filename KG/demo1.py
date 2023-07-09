@@ -64,6 +64,7 @@ def get_entities(sentence):
 
     return [entity1.strip(), entity2.strip()]
 
+
 def get_relation(sentence):
     doc = nlp(sentence)
 
@@ -71,16 +72,16 @@ def get_relation(sentence):
     matcher = Matcher(nlp.vocab)
 
     pattern = [
-        {'DEP':'ROOT'},
-        {'DEP':'prep','OP':'?'},
-        {'DEP':'agent','OP':'?'},
-        {'POS':'ADJ','OP':'?'}
-               ]
+        {'DEP': 'ROOT'},
+        {'DEP': 'prep', 'OP': '?'},
+        {'DEP': 'agent', 'OP': '?'},
+        {'POS': 'ADJ', 'OP': '?'}
+    ]
     matcher.add("matching_1", [pattern])
 
     matches = matcher(doc)
 
-    span = doc[matches[-1][1] : matches[-1][2]]
+    span = doc[matches[-1][1]: matches[-1][2]]
 
     return span.text
 
@@ -102,7 +103,7 @@ if __name__ == '__main__':
     # extracted object
     target = [i[1] for i in entity_pairs]
 
-    kg_data = pd.DataFrame({'source':source, 'target':target, 'edge':relations})
+    kg_data = pd.DataFrame({'source': source, 'target': target, 'edge': relations})
 
     # create a directed-graph from a dataframe
     # G = nx.from_pandas_edgelist(kg_data, "source", "target", True, nx.MultiDiGraph())
