@@ -77,5 +77,5 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
-!/data/
-!/data/MNIST/raw/
+!/d2l/data/
+!/d2l/data/MNIST/raw/
