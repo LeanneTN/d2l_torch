@@ -11,6 +11,13 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/.idea/d2l.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
