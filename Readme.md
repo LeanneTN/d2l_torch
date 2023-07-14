@@ -100,6 +100,8 @@ Environment: conda 4.9.2
 |  |  |--10.3_attention_scoring_function
 |  |  |--10.4_Bahhdanau_attention
 |  |  |--10.5_multihead_attention
+|  |  |--10.6_self_attention
+|  |  |--10.7_Transformer
 |
 |--GNN
 |
