@@ -35,7 +35,7 @@ IDE: PyCharm 2023
 Environment: conda 4.9.2
 
 ## contents
-```json
+```
 |--d2l
 |  |--chapter_2 : background knowledge
 |  |  |--2.1_data_operation
