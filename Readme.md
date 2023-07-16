@@ -102,6 +102,8 @@ Environment: conda 4.9.2
 |  |  |--10.5_multihead_attention
 |  |  |--10.6_self_attention
 |  |  |--10.7_Transformer
+|  |--chapter_11 : optimization algorithms
+|  |  |--11.1_optimization
 |
 |--GNN
 |
