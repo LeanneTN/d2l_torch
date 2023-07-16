@@ -104,6 +104,7 @@ Environment: conda 4.9.2
 |  |  |--10.7_Transformer
 |  |--chapter_11 : optimization algorithms
 |  |  |--11.1_optimization
+|  |  |--11.2_convex_optimization
 |
 |--GNN
 |
