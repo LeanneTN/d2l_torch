@@ -108,6 +108,7 @@ Environment: conda 4.9.2
 |  |  |--11.3_gradient_descent
 |  |  |--11.4_stochastic_gradient_descent
 |  |  |--11.6_momentum
+|  |  |--11.7_Adagrad
 |
 |--GNN
 |
