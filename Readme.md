@@ -105,6 +105,8 @@ Environment: conda 4.9.2
 |  |--chapter_11 : optimization algorithms
 |  |  |--11.1_optimization
 |  |  |--11.2_convex_optimization
+|  |  |--11.3_gradient_descent
+|  |  |--11.4_stochastic_gradient_descent
 |
 |--GNN
 |
