@@ -3,7 +3,7 @@ This repo is used as the notebook during my learning experience of
 PyTorch and code in deep learning
 
 The content in the repo is divided into three parts:
-- d2l: code in the book [Dive into Deep Learning](https://d2l.ai/) and some practice programming by myself
+- d2l: code in the book [Dive into Deep Learning](https://d2l.ai/) with my modifications and comments and some practice programming by myself
 - GNN: code to build up different types of GNNs, which lacks in the book d2l
 - KG: code to construct *Knowledge Graph*
 
@@ -112,6 +112,7 @@ Environment: conda 4.9.2
 |  |  |--11.8_RMSProp
 |  |  |--11.9_Adadelta
 |  |  |--11.10_Adam
+|  |  |--11.11_Learning_rate_scheduling
 |
 |--GNN
 |  |--pyg_test: try if PyG is installed successfully
