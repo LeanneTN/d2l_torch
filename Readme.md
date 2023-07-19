@@ -114,6 +114,7 @@ Environment: conda 4.9.2
 |  |  |--11.10_Adam
 |
 |--GNN
+|  |--pyg_test: try if PyG is installed successfully
 |
 |--KG
 |  |--demo1: build up a simple KG
