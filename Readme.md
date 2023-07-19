@@ -110,6 +110,8 @@ Environment: conda 4.9.2
 |  |  |--11.6_momentum
 |  |  |--11.7_Adagrad
 |  |  |--11.8_RMSProp
+|  |  |--11.9_Adadelta
+|  |  |--11.10_Adam
 |
 |--GNN
 |
