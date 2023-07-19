@@ -28,6 +28,13 @@ matplotlib==3.5.1
 
 spacy==3.6.0
 
+versions of components for PyG:
+- torch-geometric == 2.3.1
+- torch-scatter == 2.0.9
+- torch-cluster == 1.6.0+pt112cu113
+- torch-sparse == 0.6.14
+- torch-spline-conv == 1.2.1+pt112cu113
+
 ### running environment
 
 IDE: PyCharm 2023
