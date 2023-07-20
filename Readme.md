@@ -47,6 +47,12 @@ Environment: conda 4.9.2
 - [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
 - [Stanford CS224W](http://web.stanford.edu/class/cs224w/)
 - Machine Learning with PyTorch and Scikit-Learn
+### supplementary list
+- [A Gentle Introduction to GNNs](https://distill.pub/2021/gnn-intro/)
+- [Understanding Convolutions on Graphs](https://distill.pub/2021/understanding-gnns/)
+- [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434)
+- [GCN Source Code](https://github.com/tkipf/gcn)
+- [Blog by Author of GCN](https://tkipf.github.io/graph-convolutional-networks/)
 
 ## contents
 ```
