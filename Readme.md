@@ -41,6 +41,13 @@ IDE: PyCharm 2023
 
 Environment: conda 4.9.2
 
+## References
+- [Dive into Deep Learning](https://d2l.ai/)
+- [PyTorch](https://pytorch.org/)
+- [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
+- [Stanford CS224W](http://web.stanford.edu/class/cs224w/)
+- Machine Learning with PyTorch and Scikit-Learn
+
 ## contents
 ```
 |--d2l
@@ -122,6 +129,7 @@ Environment: conda 4.9.2
 |  |  |--11.11_Learning_rate_scheduling
 |
 |--GNN
+|  |--demo_GNN: implement a GNN without using PyG
 |  |--pyg_test: try if PyG is installed successfully
 |
 |--KG
